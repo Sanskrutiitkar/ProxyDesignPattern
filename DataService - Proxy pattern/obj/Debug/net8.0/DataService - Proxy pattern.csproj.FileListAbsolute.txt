@@ -1,0 +1,14 @@
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\bin\Debug\net8.0\DataService - Proxy pattern.exe
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\bin\Debug\net8.0\DataService - Proxy pattern.deps.json
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\bin\Debug\net8.0\DataService - Proxy pattern.runtimeconfig.json
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\bin\Debug\net8.0\DataService - Proxy pattern.dll
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\bin\Debug\net8.0\DataService - Proxy pattern.pdb
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\obj\Debug\net8.0\DataService - Proxy pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\obj\Debug\net8.0\DataService - Proxy pattern.AssemblyInfoInputs.cache
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\obj\Debug\net8.0\DataService - Proxy pattern.AssemblyInfo.cs
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\obj\Debug\net8.0\DataService - Proxy pattern.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\obj\Debug\net8.0\DataService - Proxy pattern.dll
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\obj\Debug\net8.0\refint\DataService - Proxy pattern.dll
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\obj\Debug\net8.0\DataService - Proxy pattern.pdb
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\obj\Debug\net8.0\DataService - Proxy pattern.genruntimeconfig.cache
+C:\Users\sanskruti.itkar\source\repos\DataService - Proxy pattern\obj\Debug\net8.0\ref\DataService - Proxy pattern.dll
